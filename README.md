@@ -12,7 +12,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=00F7FF)](https://github.com/SEU_USUARIO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-050816?style=for-the-badge\&logo=googlechrome\&logoColor=00F7FF)](https://rkv-digital.netlify.app/)
 
 </div>
 
@@ -117,24 +116,6 @@ Gosto de transformar ideias em projetos reais, criando interfaces modernas, func
 
 <td width="50%" valign="top">
 
-### 🌐 RKV Digital
-
-Projeto voltado para criação de soluções digitais, desenvolvimento de sites e presença digital para empresas.
-
-**Stack**
-
-`HTML` `CSS` `JavaScript` `React` `Node.js`
-
-<a href="https://rkv-digital.netlify.app/">
-
-<img src="https://img.shields.io/badge/🌐%20VISITAR%20PROJETO-00F7FF?style=for-the-badge&logoColor=black">
-
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
 ### 🍰 Doce Infância Confeitaria
 
 Projeto de site para uma confeitaria, com foco em apresentação de produtos, experiência do usuário e estrutura para gerenciamento.
@@ -144,10 +125,6 @@ Projeto de site para uma confeitaria, com foco em apresentação de produtos, ex
 `HTML` `CSS` `JavaScript`
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -161,6 +138,10 @@ Projeto acadêmico focado em UX/UI, prototipagem e experiência do usuário.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ### ⚙️ Automação & IA
@@ -170,6 +151,18 @@ Projetos experimentais envolvendo automação de processos, APIs, webhooks, n8n 
 **Stack**
 
 `Python` `n8n` `APIs` `AI`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Web Projects
+
+Projetos pessoais desenvolvidos para praticar desenvolvimento web, interfaces responsivas, animações e experiências modernas.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript`
 
 </td>
 
@@ -270,12 +263,6 @@ Build something with it."
 <a href="https://www.linkedin.com/">
 
 <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-
-</a>
-
-<a href="https://rkv-digital.netlify.app/">
-
-<img src="https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=googlechrome&logoColor=00F7FF"/>
 
 </a>
 
